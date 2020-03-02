@@ -1,1 +1,21 @@
 @import '~bootstrap/scss/bootstrap';
+body {
+  background-color: rgb(163,214,52);
+}
+
+button {
+  background: linear-gradient(90deg, rgba(76,173,63,1) 0%, rgba(154,198,58,1) 48%, rgba(76,173,63,1) 98%);
+  color: rgb(21,0,179);
+  border: rgb(163,214,52);
+}
+
+h1 {
+  color: rgb(21,0,179);
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
